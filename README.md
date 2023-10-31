@@ -1,2 +1,2 @@
 # importpy
-The first assignment of mischool.
+- The first assignment of mischool.
